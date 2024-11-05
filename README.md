@@ -9,6 +9,9 @@ A simple and interactive To-Do List application built with HTML, CSS, and JavaSc
 - **Delete Tasks**: Remove tasks from the list using the delete button (×).
 - **Persistence**: Tasks are stored in local storage, so they remain available even after refreshing the page.
 
+## Live Demo
+You can view the live application [here](https://my-taskmaster.netlify.app).
+
 ## Technologies Used
 - **HTML**: Structure of the application.
 - **CSS**: Styling of the application (not provided in this code).
