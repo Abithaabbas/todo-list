@@ -20,7 +20,7 @@ You can view the live application [here](https://my-taskmaster.netlify.app).
 
 ## Installation
 1. Clone the repository:
-    git clone https://github.com/yourusername/todo-list.git
+    git clone https://github.com/Abithaabbas/todo-list.git
     Navigate to the project directory:
 2. cd todo-list
 3.Open index.html in your web browser to view the application.
